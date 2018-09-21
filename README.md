@@ -33,6 +33,12 @@ con el proyecto.
 
 - Terminar el ciclo con actividades reales de investigación/validación en campo: prototipado y testeos.
 
+## Consideraciones generales
+
+- Este proyecto se debe "resolver" en equipos de 3.
+- El plazo es de 3 semanas.
+- Tendrás commpañía de alguien de Amable y tendrás que presentarles tu rpoyecto.
+
 ## Parte obligatoria
 
 Deberás generar el Diseño de Experiencia de Usuario y la UI de una web temporal
