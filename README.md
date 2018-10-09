@@ -7,9 +7,7 @@ Usuario con  presencia en Chile, Ecuador y Perú.
 
 La web corporativa (www.amable.com) requiere una actualización de emergencia
 debido a que la versión anterior fue recientemente dada de baja por un hackeo
-del servidor.
-
-La versión actual es un "parche" temporal rápido, hecho en un par de días,
+del servidor. La versión actual es un "parche" temporal rápido, hecho en un par de días,
 y que solamente muestra un resumen de lo que es Amable.
 
 ## Introducción
@@ -36,25 +34,25 @@ con el proyecto.
 ## Consideraciones generales
 
 - Este proyecto se debe "resolver" en equipos de 3.
-- El plazo es de 3 semanas.
-- Tendrás commpañía de alguien de Amable y tendrás que presentarles tu rpoyecto.
-
-## Parte obligatoria
-
-Deberás generar el Diseño de Experiencia de Usuario y la UI de una web temporal
-mejor que la actual, mientras se completa todo el rediseño de la nueva web.
-
-## Hacker Edition
-
-Go for it! Maqueta tu propuesta. Aplica estrategia, táctica y sentido común
-para generar un producto viable en el corto plazo.
+- El plazo es de 2 semanas.
+- Tendrás commpañía de alguien de Amable y tendrás que presentarles tu proyecto.
 
 ## Entregables
 
-**Parte obligatoria**: Documentación técnica para la implementación
-(mapa de navegación, diagrama de flujo, prototipo y _wireframes_).
+Deberás diseñar la Experiencia de Usuario y la UI de una web de la nueva web.
 
-**hacker Edition:** La nueva web de emergencia funcionando.
+### Parte obligatoria
+Documentación técnica para la implementación, esto incluye (pero no se limita):
+- Mapa de navegación
+- Diagrama de flujo
+- _Wireframes_
+- Prototipo interactivo
+
+### Hacker Edition
+La nueva web de emergencia funcionando. Go for it! 
+
+Maqueta tu propuesta. Aplica estrategia, táctica y sentido común
+para generar un producto viable en el corto plazo.
 
 ## Temas involucrados
 
@@ -66,22 +64,20 @@ para generar un producto viable en el corto plazo.
 
 ## Evaluación
 
-### Tech
+### UX Design
 
-| Habilidad              | Nivel esperado |
-| ---------------------- | -------------- |
-| **JavaScript**         |                |
-| Estilo                 | 4              |
-| Nomenclatura/semántica | 3              |
-| Funciones/modularidad  | 3              |
-| Estructuras de datos   | 2              |
-| Tests                  | 4              |
-| **SCM**                |                |
-| Git                    | 3              |
-| GitHub                 | 3              |
-| **CS**                 |                |
-| Lógica                 | 3              |
-| Arquitectura           | 3              |
+|Habilidad|Nivel Esperado|
+|:---|:---:|
+|User centricity| 5 |
+|Planificación| 4 |
+|Entrevistas y testing| 4 |
+|Observación| 4 |
+|Síntesis de resultados| 4 |
+|Flujos de usuario| 4 |
+|Arquitectura de la información| 4 |
+|Prototyping| 5 |
+|Business mindset| 5 |
+|Visual Design| 4 |
 
 ### Habilidades Blandas
 
@@ -100,7 +96,9 @@ habilidades blandas.
 | Presentaciones                                             | 4              |
 
 ## Checklist
-
-### General
-
-- [ ] Bla bla blandas
+- [ ] _README_ explicando el proceso del proyecto
+- [ ] Mapa de navegación
+- [ ] Diagrama de flujo
+- [ ] _Wireframes_
+- [ ] Prototipo interactivo
+- [ ] Handoff para equipo de desarrollo (Zeplin o similar)
