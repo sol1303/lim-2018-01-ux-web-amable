@@ -12,7 +12,7 @@ y que solamente muestra un resumen de lo que es Amable.
 
 ## Introducción
 
-En este uproyecto tienes la oportunidad de resolver un problema 100% real de
+Este proyecto te da la oportunidad de resolver un problema 100% real de
 una consultora especializada en Diseñar Experiencias de Usuario.
 
 El equipo de Amable Perú ya ha iniciado el _research_ y tiene avances en
@@ -35,7 +35,7 @@ con el proyecto.
 
 - Este proyecto se debe "resolver" en equipos de 3.
 - El plazo es de 2 semanas.
-- Tendrás commpañía de alguien de Amable y tendrás que presentarles y sustentarles
+- Tendrás compañía de alguien de Amable y tendrás que presentarles y sustentarles
   tu propuesta de solución.
 
 ## Entregables
@@ -53,16 +53,14 @@ Documentación técnica para la implementación, esto incluye (pero no se limita
 - Documentación en Zeplin
 
 ### Hacker Edition
-La nueva web de emergencia funcionando. Go for it! 
+Maqueta tu propuesta. _Go for it!_
 
-Maqueta tu propuesta. Aplica estrategia, táctica y sentido común
-para generar un producto viable en el corto plazo.
+Aplica estrategia, táctica y sentido común para generar un producto viable en el corto plazo.
 
 ## Temas involucrados
 
 - Síntesis de resultados de investigación
 - Ideación y priorización
-- Conceptualización de interfaces
 - Conceptualización de interfaces
 - Arquitectura de Información
 - Diseño de Interacción
