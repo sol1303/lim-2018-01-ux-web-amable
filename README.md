@@ -20,6 +20,11 @@ _insights_ para el rediseño de la web. El mismo equipo, iniciará la
 especificación (Arquitectura de Información, Diseño de Interacción,
 prototipado, testeo y UI) de la nueva web dentro de las próximas semanas.
 
+### Recursos
+En los siguientes links encontrarás información sobre:
+- [La empresa](documentos/presentacion_amable.pdf)
+- [El consolidado investigación y descubrimiento realizados](documentos/research_web_amable.pdf)
+
 
 ## Objetivos
 - Enfrentarse a un proyecto real, con un propósito real y con interlocutores
