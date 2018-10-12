@@ -5,27 +5,30 @@
 [Amable](http://www.amable.com/) es una empresa consultora de Diseño de Experiencia de
 Usuario con  presencia en Chile, Ecuador y Perú.
 
-La web corporativa (www.amable.com) requiere una actualización de emergencia
-debido a que la versión anterior fue recientemente dada de baja por un hackeo
-del servidor.
-
-La versión actual es un "parche" temporal rápido, hecho en un par de días,
+La web corporativa [(www.amable.com)](http://www.amable.com/) requiere una actualización
+de emergencia debido a que la versión anterior fue recientemente dada de baja por un hackeo
+del servidor. La versión actual es un "parche" temporal rápido, hecho en un par de días,
 y que solamente muestra un resumen de lo que es Amable.
 
 ## Introducción
 
-En este uproyecto tienes la oportunidad de resolver un problema 100% real de
+Este proyecto te da la oportunidad de resolver un problema 100% real de
 una consultora especializada en Diseñar Experiencias de Usuario.
 
 El equipo de Amable Perú ya ha iniciado el _research_ y tiene avances en
-_insights_ para el rediseño de la web. El mismo equipo, iniciará la
+_insights_ para el rediseño de la web. El mismo equipo iniciará la
 especificación (Arquitectura de Información, Diseño de Interacción,
 prototipado, testeo y UI) de la nueva web dentro de las próximas semanas.
+
+### Recursos
+En los siguientes links encontrarás información sobre:
+- [La empresa](documentos/presentacion_amable.pdf)
+- [El consolidado investigación y descubrimiento realizados](documentos/research_web_amable.pdf)
 
 
 ## Objetivos
 - Enfrentarse a un proyecto real, con un propósito real y con interlocutores
-que cumplirán genuinamente el rol de _stakeholders_ (pues lo serán).
+que cumplirán genuinamente el rol de _stakeholders_ (pues lo son).
 
 - Relacionarse con documentación real de una investigación en Diseño de
 Experiencia de Usuario, la cual sería tomada como insumo para continuar
@@ -36,28 +39,33 @@ con el proyecto.
 ## Consideraciones generales
 
 - Este proyecto se debe "resolver" en equipos de 3.
-- El plazo es de 3 semanas.
-- Tendrás commpañía de alguien de Amable y tendrás que presentarles tu rpoyecto.
-
-## Parte obligatoria
-
-Deberás generar el Diseño de Experiencia de Usuario y la UI de una web temporal
-mejor que la actual, mientras se completa todo el rediseño de la nueva web.
-
-## Hacker Edition
-
-Go for it! Maqueta tu propuesta. Aplica estrategia, táctica y sentido común
-para generar un producto viable en el corto plazo.
+- El plazo es de 2 semanas.
+- Tendrás asesoría de alguien de Amable y a ellos deberás presentar y sustentar tu propuesta
+  tu propuesta de solución.
 
 ## Entregables
 
-**Parte obligatoria**: Documentación técnica para la implementación
-(mapa de navegación, diagrama de flujo, prototipo y _wireframes_).
+Deberás diseñar la Experiencia de Usuario y la Interfaz de Usuario (UI) de la nueva web.
 
-**hacker Edition:** La nueva web de emergencia funcionando.
+### Parte obligatoria
+
+Documentación técnica para la implementación, esto incluye (pero no se limita):
+
+- Mapa de navegación
+- Diagrama de flujo
+- _Wireframes_
+- Prototipo interactivo
+- Documentación en Zeplin (o similar)
+
+### Hacker Edition
+Maqueta tu propuesta. _Go for it!_
+
+Aplica estrategia, táctica y sentido común para generar un producto viable en el corto plazo.
 
 ## Temas involucrados
 
+- Síntesis de resultados de investigación
+- Ideación y priorización
 - Conceptualización de interfaces
 - Arquitectura de Información
 - Diseño de Interacción
@@ -66,22 +74,20 @@ para generar un producto viable en el corto plazo.
 
 ## Evaluación
 
-### Tech
+### UX Design
 
-| Habilidad              | Nivel esperado |
-| ---------------------- | -------------- |
-| **JavaScript**         |                |
-| Estilo                 | 4              |
-| Nomenclatura/semántica | 3              |
-| Funciones/modularidad  | 3              |
-| Estructuras de datos   | 2              |
-| Tests                  | 4              |
-| **SCM**                |                |
-| Git                    | 3              |
-| GitHub                 | 3              |
-| **CS**                 |                |
-| Lógica                 | 3              |
-| Arquitectura           | 3              |
+|Habilidad|Nivel Esperado|
+|:---|:---:|
+|User centricity| 5 |
+|Planificación| 4 |
+|Entrevistas y testing| 5 |
+|Observación| 4 |
+|Síntesis de resultados| 4 |
+|Flujos de usuario| 4 |
+|Arquitectura de la información| 5 |
+|Prototyping| 5 |
+|Business mindset| 5 |
+|Visual Design| 4 |
 
 ### Habilidades Blandas
 
@@ -100,7 +106,9 @@ habilidades blandas.
 | Presentaciones                                             | 4              |
 
 ## Checklist
-
-### General
-
-- [ ] Bla bla blandas
+- [ ] _README_ explicando el proceso del proyecto
+- [ ] Mapa de navegación
+- [ ] Diagrama de flujo
+- [ ] _Wireframes_
+- [ ] Prototipo interactivo
+- [ ] Documentación en Zeplin (o similar)
