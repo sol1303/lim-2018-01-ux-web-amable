@@ -55,7 +55,7 @@ Documentación técnica para la implementación, esto incluye (pero no se limita
 - Diagrama de flujo
 - _Wireframes_
 - Prototipo interactivo
-- Documentación en Zeplin
+- Documentación en Zeplin (o similar)
 
 ### Hacker Edition
 Maqueta tu propuesta. _Go for it!_
@@ -111,4 +111,4 @@ habilidades blandas.
 - [ ] Diagrama de flujo
 - [ ] _Wireframes_
 - [ ] Prototipo interactivo
-- [ ] Handoff para equipo de desarrollo (Zeplin o similar)
+- [ ] Documentación en Zeplin (o similar)
