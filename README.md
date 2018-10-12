@@ -40,7 +40,7 @@ con el proyecto.
 
 - Este proyecto se debe "resolver" en equipos de 3.
 - El plazo es de 2 semanas.
-- Tendrás compañía de alguien de Amable y tendrás que presentarles y sustentarles
+- Tendrás asesoría de alguien de Amable y a ellos deberás presentar y sustentar tu propuesta
   tu propuesta de solución.
 
 ## Entregables
